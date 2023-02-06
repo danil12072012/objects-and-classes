@@ -10,6 +10,16 @@ public class Main {
         book2.fullNameBook();
         book1.setYear(1721);
         book1.fullNameBook();
+        System.out.println(author1);
+        System.out.println(book1);
+        System.out.println(author1.equals(author2));
+        System.out.println(book1.equals(book2));
+        System.out.println(book1.hashCode());
+        System.out.println(book2.hashCode());
+        System.out.println(author1.hashCode());
+        System.out.println(author2.hashCode());
+
+
 
 
 

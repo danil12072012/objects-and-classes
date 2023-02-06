@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bced6f54-9adc-483c-bef4-c53355b1e973" name="Changes" comment="objects and classes">
-      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+    <list default="true" id="bced6f54-9adc-483c-bef4-c53355b1e973" name="Changes" comment="Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Tasks" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,7 +75,8 @@
       <updated>1675355440706</updated>
       <workItem from="1675355442192" duration="13229000" />
       <workItem from="1675499350345" duration="1544000" />
-      <workItem from="1675617935349" duration="1507000" />
+      <workItem from="1675617935349" duration="2040000" />
+      <workItem from="1675708604903" duration="5302000" />
     </task>
     <task id="LOCAL-00001" summary="objects and classes">
       <created>1675355837286</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675355837286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task">
+      <created>1675619699963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675619699963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="objects and classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="objects and classes" />
+    <MESSAGE value="Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task" />
   </component>
 </project>
